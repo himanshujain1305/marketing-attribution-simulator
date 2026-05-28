@@ -74,14 +74,11 @@ You can also upload your own CSV in the same format using the sidebar file uploa
 
 ## Screenshots
 
-> Screenshots will be added after deployment.
-
-| View | Description |
+| App view | Screenshot |
 |---|---|
-| `screenshot_executive_summary.png` | Top-level KPI metrics |
-| `screenshot_model_comparison.png` | Attributed revenue by channel and model |
-| `screenshot_roi_comparison.png` | ROI by channel and model |
-| `screenshot_insights.png` | Auto-generated marketing interpretation |
+| Model comparison | ![Model comparison](assets/screenshots/model-comparison.png) |
+| Channel ROI | ![Channel ROI](assets/screenshots/channel-roi.png) |
+| Insights | ![Insights](assets/screenshots/insights.png) |
 
 ---
 
