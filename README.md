@@ -91,7 +91,7 @@ You can also upload your own CSV in the same format using the sidebar file uploa
 
 ```bash
 # Clone the repo
-git clone https://github.com/himanshujain/marketing-attribution-simulator.git
+git clone https://github.com/himanshujain1305/marketing-attribution-simulator.git
 cd marketing-attribution-simulator
 
 # Install dependencies
