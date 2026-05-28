@@ -4,6 +4,14 @@ A Streamlit app that compares how marketing channel performance changes across f
 
 ---
 
+## Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://marketing-attribution-simulator-nepempfx8j9wbdgdteocqg.streamlit.app/)
+
+[https://marketing-attribution-simulator-nepempfx8j9wbdgdteocqg.streamlit.app/](https://marketing-attribution-simulator-nepempfx8j9wbdgdteocqg.streamlit.app/)
+
+---
+
 ## Why I Built This
 
 Marketing teams often rely on a single attribution model to make budget decisions, most commonly last-touch. The problem is that last-touch attribution ignores every channel that created or nurtured demand before the final conversion. Channels that appear weak under last-touch may be the primary drivers of awareness or consideration.
